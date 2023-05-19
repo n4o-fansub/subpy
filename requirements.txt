@@ -1,0 +1,4 @@
+ass-parser==1.0
+pymkv==1.0.8
+fonttools==4.38.0
+pyyaml==6.0

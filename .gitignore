@@ -2,3 +2,4 @@
 __pycache__
 properties.yaml
 properties.yml
+*.zip
